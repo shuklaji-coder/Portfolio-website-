@@ -58,7 +58,7 @@ Edit
 
 ## 📬 Contact Me
 
-- 📧 Email: rohan.shukla@example.com  
+- 📧 Email: shuklarohan388@.com  
 - 💼 LinkedIn: [Rohan Shukla](https://www.linkedin.com/in/rohan-shukla-0b8889321)  
 - 💻 GitHub: [shuklaji-coder](https://github.com/shuklaji-coder)
 
